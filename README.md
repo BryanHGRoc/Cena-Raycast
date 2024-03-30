@@ -25,5 +25,3 @@ Criamos um cenário de "floresta" adicionando assets de árvores, colocamos tamb
 
 <h3>•Também utilizamos o Destroy: O destroy foi posto junto ao script "RayCast" onde utilizamos do click do mouse e do RaycastHit para destruir as esferas.</h3>
 ![image](https://github.com/BryanHGRoc/Cena-Raycast/assets/127855127/5d4ff8ad-7949-46ca-8bdd-ee4836390d56)
-
-
