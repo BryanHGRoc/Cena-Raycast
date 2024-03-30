@@ -5,7 +5,8 @@ Produção de uma cena no Unity, utilizando os conceitos de Raycast, Prefabs e D
 
 <h2>Cenário:</h2>
 Criamos um cenário de "floresta" adicionando assets de árvores, colocamos também três esferas como alvos.
-![image](https://github.com/BryanHGRoc/Cena-Raycast/assets/127855127/414bfe85-af27-4445-99af-764f73aead5f)
+![image](https://github.com/BryanHGRoc/Cena-Raycast/assets/127855127/82c55be4-7499-4045-95be-600dd5708d26)
+
 
 <h2>Métodos utilizados:</h2>
  
