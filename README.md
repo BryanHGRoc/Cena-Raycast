@@ -11,6 +11,8 @@ Criamos um cenário de "floresta" adicionando assets de árvores, colocamos tamb
 <h2>Métodos utilizados:</h2>
  
 •Adicionamos o movimento da visão pelo mouse.
+![image](https://github.com/BryanHGRoc/Cena-Raycast/assets/127855127/b9869fa8-3344-40b3-a702-5049d2adc877)
+
 
 •Utilizamos o Raycast (colocar oque utilizamos o Ray cast)
 
